@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+.header h1 {
+  font-size: 70px;
+}
+.header {
+  background-image: url("file:///C:/Users/TOSHIBA/Desktop/projects/Broadway/resources/images/the-flatiron-building.png");
+  color: white;
+}
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
