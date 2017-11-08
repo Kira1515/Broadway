@@ -2,14 +2,35 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
-.header h1 {
+#header h1 {
   font-size: 70px;
 }
-.header {
+#header,
+.design {
   background-image: url("file:///C:/Users/TOSHIBA/Desktop/projects/Broadway/resources/images/the-flatiron-building.png");
-  color: white;
 }
 .btn-nav {
   font-size: 18px;
+}
+.footer p {
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+}
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+#header,
+.design,
+.footer,
+.btn-nav {
   color: white;
 }
